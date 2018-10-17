@@ -1,1 +1,1 @@
-# spark-basics-maven
+# spark-streaming-maven
